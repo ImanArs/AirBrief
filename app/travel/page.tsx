@@ -137,13 +137,6 @@ export default function TravelPage() {
               <p className="text-gray-400">
                 You haven't added any favorites yet.
               </p>
-              <Button
-                variant="outline"
-                className="mt-4 border-red-900 text-red-500 hover:bg-red-900/20"
-                onClick={() => setActiveTab("destinations")}
-              >
-                Browse Destinations
-              </Button>
             </div>
           ) : (
             <div className="grid grid-cols-1 gap-6">

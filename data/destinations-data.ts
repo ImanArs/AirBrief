@@ -2,7 +2,8 @@ export const destinationsData = [
   {
     id: "santorini",
     title: "Santorini, Greece",
-    image: "/placeholder.svg?height=400&width=600",
+    image:
+      "https://media-cdn.tripadvisor.com/media/photo-m/1280/1d/81/30/3f/caption.jpg",
     description:
       "Santorini is a volcanic island in the Cyclades group of the Greek islands. It is famous for its dramatic views, stunning sunsets, white-washed houses, and its very own active volcano.",
     location: "Aegean Sea, Greece",
@@ -28,7 +29,7 @@ export const destinationsData = [
   {
     id: "bali",
     title: "Bali, Indonesia",
-    image: "/placeholder.svg?height=400&width=600",
+    image: "https://etimg.etb2bimg.com/photo/115997634.cms",
     description:
       "Bali is an Indonesian island known for its forested volcanic mountains, iconic rice paddies, beaches, and coral reefs. The island is home to religious sites such as cliffside Uluwatu Temple.",
     location: "Indonesia",
@@ -54,7 +55,8 @@ export const destinationsData = [
   {
     id: "kyoto",
     title: "Kyoto, Japan",
-    image: "/placeholder.svg?height=400&width=600",
+    image:
+      "https://www.datocms-assets.com/101439/1741965956-kyoto.avif?auto=format&fit=crop&h=1176&w=1536",
     description:
       "Kyoto, once the capital of Japan, is a city on the island of Honshu. It's famous for its numerous classical Buddhist temples, gardens, imperial palaces, Shinto shrines and traditional wooden houses.",
     location: "Japan",
@@ -80,7 +82,8 @@ export const destinationsData = [
   {
     id: "machu-picchu",
     title: "Machu Picchu, Peru",
-    image: "/placeholder.svg?height=400&width=600",
+    image:
+      "https://news.yale.edu/sites/default/files/styles/full/public/ynews-machu_picchu_peru-wiki.jpg?itok=2UrS7Hw8",
     description:
       "Machu Picchu is an Incan citadel set high in the Andes Mountains in Peru, above the Urubamba River valley. Built in the 15th century and later abandoned, it's renowned for its sophisticated dry-stone walls that fuse huge blocks without the use of mortar, intriguing buildings that play on astronomical alignments, and panoramic views.",
     location: "Peru",
@@ -106,7 +109,7 @@ export const destinationsData = [
   {
     id: "maldives",
     title: "Maldives",
-    image: "/placeholder.svg?height=400&width=600",
+    image: "https://www.ahstatic.com/photos/b986_ho_00_p_1024x768.jpg",
     description:
       "The Maldives is a tropical nation in the Indian Ocean composed of 26 ring-shaped atolls, which are made up of more than 1,000 coral islands. It's known for its beaches, blue lagoons and extensive reefs.",
     location: "Indian Ocean",
@@ -132,7 +135,8 @@ export const destinationsData = [
   {
     id: "amalfi-coast",
     title: "Amalfi Coast, Italy",
-    image: "/placeholder.svg?height=400&width=600",
+    image:
+      "https://assets.vogue.com/photos/5d2f42b7f1478f0008831821/master/w_2560%2Cc_limit/00-story-image-amalfi-coast-italy-travel-guide.jpg",
     description:
       "The Amalfi Coast is a 50-kilometer stretch of coastline along the southern edge of Italy's Sorrentine Peninsula. It's a popular holiday destination, with sheer cliffs and a rugged shoreline dotted with small beaches and pastel-colored fishing villages.",
     location: "Italy",
@@ -155,5 +159,4 @@ export const destinationsData = [
     cuisine:
       "The Amalfi Coast is known for its Mediterranean cuisine featuring fresh seafood, lemons, and olive oil. Must-try dishes include scialatielli ai frutti di mare (pasta with seafood), delizia al limone (lemon dessert), and limoncello (lemon liqueur). Don't miss trying the region's famous buffalo mozzarella.",
   },
-]
-
+];

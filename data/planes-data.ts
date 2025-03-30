@@ -2,7 +2,8 @@ export const planesData = [
   {
     id: "boeing-747",
     title: "Boeing 747 - The Queen of the Skies",
-    image: "/placeholder.svg?height=400&width=600",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/British_Airways_G-BNLU-2008-09-13-YVR.jpg/1200px-British_Airways_G-BNLU-2008-09-13-YVR.jpg",
     description:
       "The Boeing 747, often referred to as the 'Queen of the Skies', revolutionized air travel with its iconic hump and impressive size. It was the first wide-body commercial airliner and remained the largest passenger aircraft for decades until the Airbus A380.",
     specs: [
@@ -25,7 +26,8 @@ export const planesData = [
   {
     id: "concorde",
     title: "Concorde - Breaking the Sound Barrier",
-    image: "/placeholder.svg?height=400&width=600",
+    image:
+      "https://www.heraldnet.com/wp-content/uploads/2019/03/15799149_web1_M-Concorde-EDH-190305.jpg",
     description:
       "The Concorde was a British-French turbojet-powered supersonic passenger airliner that operated from 1976 to 2003. It had a maximum speed of twice the speed of sound (Mach 2.04) and could cross the Atlantic in just under 3.5 hours.",
     specs: [
@@ -48,7 +50,8 @@ export const planesData = [
   {
     id: "sr-71-blackbird",
     title: "SR-71 Blackbird - The Fastest Air-Breathing Manned Aircraft",
-    image: "/placeholder.svg?height=400&width=600",
+    image:
+      "https://assets.newatlas.com/dims4/default/fab6035/2147483647/strip/true/crop/889x500+23+0/resize/1200x675!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Farchive%2Fblackbird-plane-8.jpg",
     description:
       "The Lockheed SR-71 Blackbird is a long-range, high-altitude, Mach 3+ strategic reconnaissance aircraft developed by Lockheed's Skunk Works division. It remains the fastest air-breathing manned aircraft in the world.",
     specs: [
@@ -71,7 +74,8 @@ export const planesData = [
   {
     id: "wright-flyer",
     title: "Wright Flyer - The First Successful Airplane",
-    image: "/placeholder.svg?height=400&width=600",
+    image:
+      "https://www.wright-brothers.org/Information_Desk/Just_the_Facts/Airplanes/Wright_Airplane_images/1904_Flyer_II/1904_Flyer_Flight_16Nov.jpg",
     description:
       "The Wright Flyer (also known as Flyer I or 1903 Flyer) was the first successful heavier-than-air powered aircraft. It was designed and built by the Wright brothers, and they flew it four times on December 17, 1903, near Kill Devil Hills, North Carolina.",
     specs: [
@@ -94,7 +98,8 @@ export const planesData = [
   {
     id: "spitfire",
     title: "Supermarine Spitfire - Icon of the Battle of Britain",
-    image: "/placeholder.svg?height=400&width=600",
+    image:
+      "https://www.airforce.gov.au/sites/default/files/2022-12/20200914raaf8622332_04.jpg",
     description:
       "The Supermarine Spitfire is a British single-seat fighter aircraft that was used by the Royal Air Force and other Allied countries during and after World War II. It was produced in greater numbers than any other British aircraft and was the only British fighter to be in continuous production throughout the war.",
     specs: [
@@ -117,7 +122,8 @@ export const planesData = [
   {
     id: "lockheed-constellation",
     title: "Lockheed Constellation - The Aircraft That Saved Lockheed",
-    image: "/placeholder.svg?height=400&width=600",
+    image:
+      "https://static1.simpleflyingimages.com/wordpress/wp-content/uploads/2024/02/shutterstock_1598603224-1.jpeg",
     description:
       "The Lockheed Constellation ('Connie') was a propeller-driven, four-engine airliner built by Lockheed Corporation between 1943 and 1958. It was known for its distinctive triple-tail design and dolphin-shaped fuselage. The Constellation was used as a civilian airliner and as a military and civilian air transport.",
     specs: [
@@ -137,5 +143,4 @@ export const planesData = [
     ],
     known: false,
   },
-]
-
+];
